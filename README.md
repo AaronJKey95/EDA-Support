@@ -329,4 +329,4 @@ git push
 
 ## Disclaimer
 
-This tool is intended to support exploratory data analysis. It should not be used as the sole basis for clinical, operational, financial, or policy decisions without appropriate review and validation.
+This tool is intended to support exploratory data analysis. It should not be used as the sole basis for clinical, operational, financial, or policy decisions without appropriate review and validation. This is a tool to help you ask questions, not answer them.
